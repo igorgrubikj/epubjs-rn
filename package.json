@@ -26,8 +26,8 @@
     "jszip": "3.4.0",
     "lodash": "4.17.15",
     "path-webpack": "0.0.3",
-    "react": "17.0.1",
-    "react-native": "0.64.2",
+    "react": "*",
+    "react-native": "*",
     "react-native-static-server": "0.5.0",
     "react-native-webview": "11.6.5",
     "react-native-zip-archive": "6.0.3",
@@ -52,7 +52,7 @@
     "gulp": "4.0.2",
     "jest": "24.8.0",
     "metro-react-native-babel-preset": "0.59.0",
-    "react-test-renderer": "16.11.0"
+    "react-test-renderer": "17.0.1"
   },
   "files": [
     "components",
